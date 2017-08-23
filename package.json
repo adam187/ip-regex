@@ -1,6 +1,6 @@
 {
   "name": "ip-regex",
-  "version": "2.1.0-custom-build",
+  "version": "2.1.0-custom-build-2",
   "description": "Regular expression for matching IP addresses (IPv4 & IPv6)",
   "main": "./lib/index.js",
   "module": "index.js",
